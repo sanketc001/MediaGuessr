@@ -1,0 +1,16 @@
+{
+    "servers": {
+        "MediaGuessr": {
+            "type":"stdio",
+      "command": "C:\\Users\\vfami\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "D:\\Sanket\\Agent\\MediaGuessr\\main.py"
+      ]
+    },
+    }
+}

@@ -1,0 +1,12 @@
+[project]
+name = "mediaguessr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cinemagoer>=2023.5.1",
+    "mcp[cli]>=1.8.1",
+    "requests>=2.32.3",
+    "youtube-search>=2.1.2",
+]
