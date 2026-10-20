@@ -8,3 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local assistant/agent config
+.github/instructions/
+AGENTS.md
+CLAUDE.md
+.claude/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

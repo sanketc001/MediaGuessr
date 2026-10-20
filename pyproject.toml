@@ -1,7 +1,7 @@
 [project]
 name = "mediaguessr"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP server for identifying movies, shows, games and dishes from images, with IMDb lookup, recipe search and trip planning"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
